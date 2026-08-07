@@ -10,7 +10,7 @@ Ce terrain client m'a appris à écouter un besoin, comprendre un irritant méti
 
 - Je conçois des projets personnels pour appliquer concrètement les méthodes AMOA/BA : recueil de besoin, modélisation des processus (BPMN), modélisation de données (MCD/MLD), requêtes SQL, restitution décisionnelle (Power BI).
   
-- Mon projet vitrine actuel est JobTracker, un système de suivi de candidatures que j'ai conçu de bout en bout. Vous le trouverez ici : [JobTracker](LIEN_VERS_VOTRE_DEPOT)
+- Mon projet vitrine actuel est JobTracker, un système de suivi de candidatures que j'ai conçu de bout en bout. Vous le trouverez ici : [JobTracker]
 
 📚 Compétences en cours d'acquisition
 
@@ -25,7 +25,7 @@ Programme Grande École - IMT Business School, spécialisation Management et Ing
 
 📫 Me contacter
 - LinkedIn : https://www.linkedin.com/in/exauc%C3%A9-maxfield/
-- Dossier de motivation (PDF) : [lien vers votre PDF]
+- Dossier de motivation (PDF) :
 - Email : exaucemaxfield@gmail.com
 
 Profil en cours de construction, mis à jour régulièrement au fil de ma formation.
