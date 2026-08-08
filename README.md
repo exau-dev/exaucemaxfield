@@ -1,4 +1,4 @@
-👋 Bonjour, je suis Exaucé Maxfield
+### 👋 Bonjour, je suis Exaucé Maxfield
 
 Je suis en transition professionnelle vers les métiers de Business Analyst SI, AMOA, Assistant Product Owner et PMO IT.
 
@@ -6,13 +6,12 @@ Après plusieurs années au contact direct des clients en banque-assurance et t�
 
 Ce terrain client m'a appris à écouter un besoin, comprendre un irritant métier et en mesurer l'impact concret. Je construis maintenant, en complément, les compétences techniques et méthodologiques pour transformer ces besoins en solutions SI.
 
-🛠️ Ce que je fais actuellement
+### 🛠️ Ce que je fais actuellement
 
 - Je conçois des projets personnels pour appliquer concrètement les méthodes AMOA/BA : recueil de besoin, modélisation des processus (BPMN), modélisation de données (MCD/MLD), requêtes SQL, restitution décisionnelle (Power BI).
-  
-- Mon projet vitrine actuel est JobTracker, un système de suivi de candidatures que j'ai conçu de bout en bout. Vous le trouverez ici : [JobTracker]
+- Mon projet vitrine actuel est **JobTracker**, un système de suivi de candidatures que j'ai conçu de bout en bout. 👉 [Découvrir le projet](https://github.com/exau-dev/JobTracker)
 
-📚 Compétences en cours d'acquisition
+### 📚 Compétences en cours d'acquisition
 
 - Recueil et formalisation des besoins, rédaction de spécifications fonctionnelles
 - Modélisation BPMN des processus métier
@@ -20,12 +19,13 @@ Ce terrain client m'a appris à écouter un besoin, comprendre un irritant méti
 - Reporting décisionnel avec Power BI (connexion ODBC, DAX)
 - Pilotage agile de projet (Jira, Kanban)
 
-🎓 Formation
+### 🎓 Formation
+
 Programme Grande École - IMT Business School, spécialisation Management et Ingénierie des Systèmes d'Information (MISI)
 
-📫 Me contacter
-- LinkedIn : https://www.linkedin.com/in/exauc%C3%A9-maxfield/
-- Dossier de motivation (PDF) :
+### 📫 Me contacter
+
+- LinkedIn : [linkedin.com/in/exaucé-maxfield](https://www.linkedin.com/in/exauc%C3%A9-maxfield/)
 - Email : exaucemaxfield@gmail.com
 
-Profil en cours de construction, mis à jour régulièrement au fil de ma formation.
+*Profil en cours de construction, mis à jour régulièrement au fil de ma formation.*
