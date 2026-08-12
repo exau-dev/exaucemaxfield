@@ -1,6 +1,6 @@
 ### 👋 Bonjour, je suis Exaucé Maxfield
 
-Je suis en transition professionnelle vers les métiers de Business Analyst SI, AMOA, Assistant Product Owner et PMO IT.
+Je suis en transition professionnelle vers les métiers de Business Analyst SI, AMOA, Assistant Product Owner et IT.
 
 Après plusieurs années au contact direct des clients en banque-assurance et télécom (BNP Paribas, Société Générale, Bouygues Telecom, Foundever), j'ai choisi de me former sérieusement aux métiers de la transformation digitale. Je suis admis au Programme Grande École de l'IMT Business School, spécialisation Management et Ingénierie des Systèmes d'Information (MISI).
 
